@@ -1,11 +1,8 @@
-// Brady Manske
-// 2/10/23
-// CS&145
-// Assignment 2: Phone Book (file 3 of 3)
-
-// This program will assist the user in creating,
-// using, and managing a phonebook
-
+/* This program will assist the user in creating,
+ * using, and managing a phonebook.
+ * @author Brady Manske
+ * @version 2023/02/07
+ */
 import java.util.*; // for Exceptions and Scanner
 
 public class Test {
