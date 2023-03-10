@@ -1,13 +1,11 @@
-// Brady Manske
-// 2/10/23
-// CS&145
-// Assignment 2: Phone Book (file 2 of 3)
-
-// This defines a PhoneBook Manager class that provides
-// many methods for linking and unlinking ListNodes to form a dynamic phonebook,
-// as well as storing information about the phonebook such as its size
-// and String appearance
-
+/*
+ * This defines a PhoneBook Manager class that provides
+ * many methods for linking and unlinking ListNodes to form a dynamic phonebook,
+ * as well as storing information about the phonebook such as its size
+ * and String appearance.
+ * @author Brady Manske
+ * @version 2023/01/31
+ */
 import java.util.*; // for Exceptions
 
 public class PhoneBookManager {
